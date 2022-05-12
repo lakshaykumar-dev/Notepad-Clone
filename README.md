@@ -1,2 +1,2 @@
 # Notepad-Clone
-# Using Java
+# Using Java Swing awt
